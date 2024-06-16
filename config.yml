@@ -1,0 +1,7 @@
+# Database config
+
+DB_HOST: "localhost"
+DB_PORT: 3306
+DB_USERNAME: varun
+DB_PASSWORD: varun
+DB_NAME: base_golang_echo_setup
